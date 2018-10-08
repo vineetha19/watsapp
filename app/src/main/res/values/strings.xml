@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">whatsapp</string>
+    <string name="call">CALLS</string>
+    <string name="chat">CHATS</string>
+    <string name="contact">CONTACTS</string>
+    <string name="header">WhatsApp</string>
+    <string name="action_settings">action_settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>

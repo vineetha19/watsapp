@@ -1,0 +1,18 @@
+{
+  "student_list":[{
+    "stu_name":"vineetha",
+    "stu_id":"123"
+  ,"company":"marolix"
+  ,"mobile":"6303189126"
+  },{
+    "stu_name":"swetha",
+    "stu_id":"456",
+    "company":"tcs",
+    "mobile":"1234567890"
+  },{
+    "stu_name":"niroosha",
+    "stu_id":"789",
+    "company":"ibm",
+    "mobile":"1234567890"
+  }]
+}
